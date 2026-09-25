@@ -1,2 +1,3 @@
 # Quantum-Projects
-Simple Quantum programs 
+
+Simple quantum computing projects, with the overall goal of getting into quantum optics.
